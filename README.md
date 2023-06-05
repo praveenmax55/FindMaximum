@@ -30,7 +30,7 @@ ii)	# To find the maximum marks using the list method max().
 ''' 
 Program to find the maximum marks using the list method max().
 Developed by: D Praveen
-RegisterNumber: 22005917
+RegisterNumber: 212222240076
 '''
 def max_marks(marks):
     a=max(marks)
